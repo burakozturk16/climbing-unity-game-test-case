@@ -15,7 +15,7 @@ You can download [demo apk](https://github.com/burakozturk16/climbing-unity-game
 
 The estimated time to complete this prototype about 4-6 hours.
 
-You can find the class structure and diagram [here](https://github.com/burakozturk16/unity-climbing-test-case/blob/main/Informations/diagram.pdf).
+You can find the class structure and diagram [here](https://github.com/burakozturk16/climbing-unity-game-test-case/blob/main/Informations/diagram.pdf).
 
 ## Notes for Game Designer
 
