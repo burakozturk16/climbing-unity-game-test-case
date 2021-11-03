@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc07799f5dab743689f8d6122a5a51e6, type: 3}
+  m_Name: Red_Stickman
+  m_EditorClassIdentifier: 
+  mat: {fileID: 2100000, guid: dd1eb5481f08044e18a2872ab0219e6d, type: 2}
