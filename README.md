@@ -9,7 +9,7 @@ Dependencies kept minimum, I use a **climbing system** to add climb ability to r
 
 
 
-You can download [demo apk](https://github.com/burakozturk16/unity-climbing-test-case/blob/main/Informations/DemoClimb.apk) file or watch game play video on [youtube](https://www.youtube.com/watch?v=216aCJqN6F0)
+You can download [demo apk](https://github.com/burakozturk16/climbing-unity-game-test-case/blob/main/Informations/DemoClimb.apk) file or watch game play video on [youtube](https://www.youtube.com/watch?v=216aCJqN6F0)
 
 ## Estimating and Diagrams
 
