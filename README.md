@@ -19,15 +19,15 @@ You can find the class structure and diagram [here](https://github.com/burakoztu
 
 ## Notes for Game Designer
 
-I wanted to create a UI Toolkit window to createing levels automatically but this is only case :) so if you want to create new level there are some values to be tweak.
+I wanted to create a UI Toolkit window to createing levels automatically but this is only test case :) so if you want to create new level there are some values to be tweak.
 
-- You can create a new skin for hero with Assets->Create->Game->Player and this is a scriptableObject that has material to change player's skin.
-- You need a empty game object and attach to it Level component to managing game.
-- You can tweak the Player->Third Person System->Character Abilities to jump and climbing values.
+- You can create a new skin for player with **Assets->Create->Game->Player** and this is a scriptableObject that has material to change player's skin.
+- You need an empty game object and attach to it **Level** component to managing game.
+- You can tweak the **Player->Third Person System->Character Abilities** to jump and climbing values.
 - You need to add cinemachine.
 - Also you need some put ledges and obstacles to a wall or mountain.
-  -  The Ledges must have BoxCollider and Ledge Component, and please set first ledge and target ledge to reach.
-  -  Obstacles must have BoxCollider and Obstacle Component.
+  -  The Ledges must have **BoxCollider** and **Ledge Component**, and please set first ledge and target ledge to reach.
+  -  Obstacles must have **BoxCollider** and **Obstacle Component**.
 
 The folder structure is well organized, so you can find easly what you search in; 
 - Materials
